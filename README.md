@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:1E3A8A,100:7C3AED&height=220&section=header&text=ITS_ME_KYRO&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Curiosity%20%7C%20Technology%20%7C%20Creativity&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:1E3A8A,100:7C3AED&height=220&section=header&text=@ITS_ME_KYRO&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Curiosity%20%7C%20Technology%20%7C%20Creativity&descAlignY=60&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=8B9CFB&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Kyro+%F0%9F%91%8B;Curious+Tech+Enthusiast;Beginner+Developer+%7C+Always+Learning;Discord+Community+Manager;Code+Tinkerer+in+Progress;Turning+Ideas+Into+Reality" alt="Animated introduction"/>
 
